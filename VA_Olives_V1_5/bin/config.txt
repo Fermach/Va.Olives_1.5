@@ -1,0 +1,18 @@
+
+----------------------- IMATEC31 ---------------------------------
+
+=============================================================
+- Ruta datos recibidos tickets :   'F:\\IMATEC31\\Biotech\\Registros Recibidos'
+- Ruta BBDD :  'F:\\IMATEC31\\BBDD Access\\tdic1.mdb'
+- Número Basculas/Lineas :  '3'
+============================================================
+#root#
+#root#
+=============================================================
+
+  IMPORTANTE!! 
+   No altere el orden del documento, ni la tabulación del mismo, hacer esto podria 
+   interrumpir el correcto funcionamiento del programa.
+   Limítese solo a cambiar las datos entre comillas ('') para configurar la aplicación.
+   
+--------------------------------------------------------------------
